@@ -124,14 +124,6 @@ Then force push your branch:
 
 `git push --force origin test-branch`
 
-### Useful tools to make doing DCO signoffs easier
-
-There are a number of great tools out there to manage DCO signoffs for developers to make it much easier to do signoffs.
-
-- DCO command line tool, which let's you do a single signoff for an entire repo ( <https://github.com/coderanger/dco> )
-- GitHub UI integrations for adding the signoff automatically ( <https://github.com/scottrigby/dco-gh-ui> )
-- Chrome - <https://chrome.google.com/webstore/detail/dco-github-ui/onhgmjhnaeipfgacbglaphlmllkpoijo>
-- Firefox - <https://addons.mozilla.org/en-US/firefox/addon/scott-rigby/?src=search>
 
 ## Our thanks
 
@@ -139,6 +131,6 @@ We deeply appreciate your effort toward improving open-mortgage-data-pipeline! Y
 
 ## Contributors
 
-Below is an (incomplete) list of people (in alphabetical order) who contributed to this project via code, tests, or documentation:
+Below is an list of people (in alphabetical order) who contributed to this project via code, tests, or documentation:
 
 Jey Paulraj - @jpaulrajredhat
